@@ -1,5 +1,5 @@
 # PixelsWeb Customer Project | Static WebSite
-**Live URL:** [PixelsWeb Web App](https://portfolio-9fh0.onrender.com)
+**Live URL:** [PixelsWeb Web App](https://www.pixelsweb.gr/)
 
 This repository contains the core frontend infrastructure for the **PixelsWeb** customer project.
 
